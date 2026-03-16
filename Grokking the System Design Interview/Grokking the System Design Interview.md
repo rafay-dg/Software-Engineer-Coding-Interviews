@@ -11,7 +11,7 @@ Junfan Zhu
 Course Links
 -------------
 
-https://www.educative.io/courses/grokking-the-system-design-interview/
+https://www.designgurus.io/course/grokking-the-system-design-interview/ 
 
 ----
 
